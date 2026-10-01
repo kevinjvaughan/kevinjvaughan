@@ -1,6 +1,8 @@
 ## Hi there 👋 My name is Kevin Vaughan
 
-No state is the best state (straight from Jack Dorsey's X bio)
+# Boston sports fan: 🟥 🟨 🟩 🟦
+
+# No state is the best state (straight from Jack Dorsey's X bio)
 
 
 <!--
