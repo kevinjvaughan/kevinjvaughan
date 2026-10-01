@@ -2,7 +2,7 @@
 
 # Boston sports fan: 🟥 🟨 🟩 🟦
 # Bitcoin Maxi 🟧
-# No state is the best state (straight from Jack Dorsey's X bio)
+# No state is the best state (straight from Jack Dorsey's X bio still true tho)
 
 
 <!--
