@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Kevin Vaughan
+
+No state is the best state (straight from Jack Dorsey's X bio)
+
 
 <!--
 **kevinjvaughan/kevinjvaughan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
