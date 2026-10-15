@@ -1,8 +1,6 @@
 ## Hi 👋 My name is Kevin Vaughan
 
-# Boston sports fan: 🟥 🟨 🟩 🟦
-# Bitcoin Maxi 🟧
-# No state is the best state (straight from Jack Dorsey's X bio still true though)
+
 
 
 <!--
